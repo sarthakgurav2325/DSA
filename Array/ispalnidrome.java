@@ -1,4 +1,4 @@
-class Solution {
+class isplindrome {
     public boolean isPalindrome(int x) {
         
         // Negative numbers are not palindrome
